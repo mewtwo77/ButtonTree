@@ -1,0 +1,16 @@
+Create a simple application written in ReactJs(Preferred), React Native(Preferred), VueJs or Angular and no Database is required. The game consist of box with different color. 
+When the player select a specific box, another set of box will appear which leads to winning or losing the game. You will be given 48hrs to finish 
+the project.
+
+1. Start by  showing two a white and red boxes.
+2. When the white box is selected it will show another white and orange box.
+3. However if the red box is selected, a black and another red box will appear. When the player select again the red box, 
+   the game is over and need to reset the game otherwise black it will go to  No. 6
+4. If the player select orange box it will go to No. 6.
+5. Now when the white box is selected again it will show black and red box. If the player select the red box, the game is over.  
+   If the player chooses the black box, it will go to  No. 6.
+6. Three boxes will appear green, orange and black.
+7. Now if the player pick the black again, it will go to  No. 6. Otherwise, any of the two is selected the black box will be removed.
+8. The player will win if they select the same color again otherwise game over and reset the game.
+
+Commit your code in any public Git repository and share it with us.
